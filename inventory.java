@@ -1,4 +1,4 @@
-package com.vogella.eclipse.ide.second;
+package internship;
 
 
 import javax.swing.*;
